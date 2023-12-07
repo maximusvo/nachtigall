@@ -17,7 +17,7 @@ email:
 baseurl: "" # the subpath of your site, e.g. /blog
 
 permalink: /blog/:title
-url: ""
+url: "https://chor-nachtigall.de"
 
 # Build settings
 highlighter: rouge
@@ -47,8 +47,6 @@ plugins:
 sass:
   sass_dir:          assets/_scss
   #style:            :compressed
-
-repository: 'unbox-blackbox'
 
 title: "Quartierchor Nachtigall Berlin"
 description: "Hier findet ihr Informationen und Konzerttermine zum Quartierchor Nachtigall, in Berlin Neukölln."
