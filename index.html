@@ -12,11 +12,10 @@ layout: default
 </div>
 <!-- intro -->
 <div class="row">
-    <section class="section first home-aims-list col-xs-24">
+    <section id="about" class="section first col-xs-24">
         <div class="content-wrap">
-            <h1 class="regular">Quartierchor Nachtigall Berlin</h1>
-            <p></p>
-
+            <h1 class="section-headline">Quartierchor Nachtigall</h1>
+            <p>Wir sind ein Chor aus dem Stadtteil Berlin Neukölln. Uns verbindet die Leidenschaft am gemeinsamen Singen und einer guten Zeit. Dabei sind wir nicht auf ein besonderes Genre festgelegt. Wir verstehen uns als eine gute Mischung zwischen Anspruch und Spaß.</p>
         </div>
     </section>
 </div>
@@ -28,17 +27,9 @@ layout: default
             <p>Hier könnt ihr uns als nächstes hören.</p>
         </div>
         <div class="row">
-        </div>
-    </section>
-</div>
-
-<div class="row">
-    <section id="about" class="section white col-xs-24">
-        <div class="content-wrap">
-            <h2 class="section-headline">Über den Chor</h2>
-            <p>Das ist unser Selbstverständnis</p>
-        </div>
-        <div class="row">
+            <p>
+            {% include partials/events.liquid %}
+            </p>
         </div>
     </section>
 </div>

@@ -1,6 +1,36 @@
-- name: ..
+- name: Der Teufel auf Erden
   url:
-  date: ..
-  city:
-  featured: false
+  date: 22.03.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
   id: "0001"
+- name: Der Teufel auf Erden
+  url:
+  date: 23.03.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
+  id: "0002"
+- name: Der Teufel auf Erden
+  url:
+  date: 12.04.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
+  id: "0003"
+- name: Der Teufel auf Erden
+  url:
+  date: 13.04.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
+  id: "0004"
+- name: Der Teufel auf Erden
+  url:
+  date: 26.04.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
+  id: "0005"
+- name: Der Teufel auf Erden
+  url:
+  date: 27.04.2024
+  city: Heimathafen, Berlin Neukölln
+  featured: true
+  id: "0006"
