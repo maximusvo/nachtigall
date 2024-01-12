@@ -1,8 +1,9 @@
 {% if site.data.events %}
+        <div class="events">
         {% for event in site.data.events %}
             {% if event.featured == true %}
                 <img class="thumbs" src="/assets/img/static/events.png" /> {% if event.url %}<a href="{{event.url}}" target="_blank">{% endif %}<strong>{{ event.name }}</strong>{% if event.url %}</a>{% endif %}<br>{{ event.date }} {{ event.city }}<br>{{ event.time }}<br>
             {% endif %}
         {% endfor %}
-
+        </div>
 {% endif %}
