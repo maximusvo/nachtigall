@@ -2,13 +2,13 @@
   url: "https://heimathafen-neukoelln.de/events/stadt-der-teufel/"
   date: 22.03.2024
   city: Heimathafen, Berlin Neukölln
-  featured: true
+  featured: false
   id: "0001"
 - name: Stadt der Teufel
   url: "https://heimathafen-neukoelln.de/events/stadt-der-teufel/"
   date: 23.03.2024
   city: Heimathafen, Berlin Neukölln
-  featured: true
+  featured: false
   id: "0002"
 - name: Stadt der Teufel
   url: "https://heimathafen-neukoelln.de/events/stadt-der-teufel/"
