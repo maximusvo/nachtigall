@@ -34,3 +34,15 @@
   city: Heimathafen, Berlin Neukölln
   featured: false
   id: "0006"
+- name: Gemischte Gefühle
+  url: "/"
+  date: 15.02.2025
+  city: Evangelische Bürgergemeinde Neukölln, Kirchgasse 14
+  featured: true
+  id: "0007"
+- name: Gemischte Gefühle
+  url: "/"
+  date: 16.02.2025
+  city: Martin-Luther-Kirche, Fuldastr. 48-50
+  featured: true
+  id: "0008"
