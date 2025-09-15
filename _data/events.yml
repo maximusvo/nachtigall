@@ -46,3 +46,9 @@
   city: Martin-Luther-Kirche, Fuldastr. 48-50
   featured: true
   id: "0008"
+- name: BIG IN NEUKÖLLN
+  url: "https://www.neukoellneroper.de/performance/big-in-neukoelln/"
+  date: 14.09.2025
+  city: Karl-Marx-Straße 131 – 133, 12043 Berlin
+  featured: true
+  id: "0009"
