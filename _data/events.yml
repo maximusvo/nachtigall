@@ -38,17 +38,35 @@
   url: "/"
   date: 15.02.2025
   city: Evangelische Brüdergemeine Neukölln, Kirchgasse 14
-  featured: true
+  featured: false
   id: "0007"
 - name: Gemischte Gefühle
   url: "/"
   date: 16.02.2025
   city: Martin-Luther-Kirche, Fuldastr. 48-50
-  featured: true
+  featured: false
   id: "0008"
 - name: BIG IN NEUKÖLLN
   url: "https://www.neukoellneroper.de/performance/big-in-neukoelln/"
   date: 14.09.2025
   city: Karl-Marx-Straße 131 – 133, 12043 Berlin
-  featured: true
+  featured: false
   id: "0009"
+- name: Fête de la musique
+  url: "https://www.fetedelamusique.de/"
+  date: 21.06.2026
+  city: Berlin
+  featured: true
+  id: "0010"
+- name: 48 Stunden NK
+  url: "https://48-stunden-neukoelln.de/de/festival"
+  date: 05.07.2026
+  city: Berlin
+  featured: true
+  id: "0011"
+- name: Walnusshof Sommerfest
+  url: "https://walnusshof.org/"
+  date: 18.07.2026
+  city: Dorfkirche Jänickendorf (Steinhöfel)
+  featured: true
+  id: "0012"
